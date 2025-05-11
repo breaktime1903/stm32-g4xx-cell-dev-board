@@ -13272,7 +13272,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "75k"
 			(at 227.33 68.58 90)
 			(effects
 				(font
@@ -14582,7 +14582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyLibrary:3_4微动开关"
+		(property "Footprint" "Library:3_4微动开关"
 			(at 43.18 153.67 0)
 			(effects
 				(font
@@ -16207,7 +16207,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "13.3k"
+		(property "Value" "10k"
 			(at 218.44 81.2799 0)
 			(effects
 				(font
